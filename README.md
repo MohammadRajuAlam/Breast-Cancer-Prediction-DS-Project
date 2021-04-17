@@ -1,0 +1,2 @@
+# Breast-Cancer-Prediction-DS-Project
+This model is developed to detect the patients suffering from Breast Cancer that whether they  are suffering from eliminate (breast cancer) or Benign cells (not breast cancer). This model takes the patient  symptoms as input to diagnosis, We fit the model and classify the diagnosis of the patients and gives the result  as for whether she is suffering from breast cancer or not and she need to be Treatment (treated) or not.  The main aim of this project we can save Her life whoever suffering from breast cancers. 
